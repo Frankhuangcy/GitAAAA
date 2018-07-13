@@ -8,5 +8,8 @@ public class Main {
     public static void main(String[] args) {
 
         // 随便写的东西哈哈哈
+
+
+        // 1551 奥术大师大多所
     }
 }
